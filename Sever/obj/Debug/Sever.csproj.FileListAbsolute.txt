@@ -1,0 +1,11 @@
+C:\Users\Ali\source\repos\Demo\Sever\bin\Debug\Sever.exe.config
+C:\Users\Ali\source\repos\Demo\Sever\bin\Debug\Sever.exe
+C:\Users\Ali\source\repos\Demo\Sever\bin\Debug\Sever.pdb
+C:\Users\Ali\source\repos\Demo\Sever\bin\Debug\NewLife.Core.dll
+C:\Users\Ali\source\repos\Demo\Sever\bin\Debug\NewLife.Core.pdb
+C:\Users\Ali\source\repos\Demo\Sever\bin\Debug\NewLife.Core.xml
+C:\Users\Ali\source\repos\Demo\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Demo\Sever\obj\Debug\Sever.csproj.CopyComplete
+C:\Users\Ali\source\repos\Demo\Sever\obj\Debug\Sever.exe
+C:\Users\Ali\source\repos\Demo\Sever\obj\Debug\Sever.pdb
+C:\Users\Ali\source\repos\Demo\Sever\obj\Debug\Sever.csprojAssemblyReference.cache

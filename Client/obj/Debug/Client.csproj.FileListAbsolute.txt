@@ -1,0 +1,11 @@
+C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe.config
+C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe
+C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.pdb
+C:\Users\Ali\source\repos\Demo\Client\bin\Debug\NewLife.Core.dll
+C:\Users\Ali\source\repos\Demo\Client\bin\Debug\NewLife.Core.pdb
+C:\Users\Ali\source\repos\Demo\Client\bin\Debug\NewLife.Core.xml
+C:\Users\Ali\source\repos\Demo\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Demo\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Ali\source\repos\Demo\Client\obj\Debug\Client.exe
+C:\Users\Ali\source\repos\Demo\Client\obj\Debug\Client.pdb
+C:\Users\Ali\source\repos\Demo\Client\obj\Debug\Client.csprojAssemblyReference.cache

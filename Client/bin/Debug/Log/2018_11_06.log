@@ -1,0 +1,1914 @@
+﻿#Software: Client
+#ProcessID: 12672
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+12:57:44.313  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+12:57:44.314  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+12:57:44.314  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+12:57:44.314  3 N 1 Client Copyright © Microsoft 2018
+12:57:44.314  3 N 1 Setting的配置文件Config\Core.config 不存在，准备用默认配置覆盖！
+12:57:44.405  3 N 1 Setting的配置文件Config\Socket.config 不存在，准备用默认配置覆盖！
+12:57:44.580  8 N 2 NewLife.Net.Setting的配置文件C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Config\Socket.config有更新，重新加载配置！
+
+#Software: Client
+#ProcessID: 13600
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:02:52.854  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:02:52.855  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:02:52.855  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:02:52.855  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 4632
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:04:34.541  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:04:34.542  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:04:34.542  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:04:34.542  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 12392
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:09:21.197  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:09:21.205  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:09:21.205  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:09:21.205  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 13920
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:10:46.416  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:10:46.417  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:10:46.418  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:10:46.419  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 10124
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:15:12.862  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:15:12.863  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:15:12.866  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:15:12.866  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 12016
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:15:32.122  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:15:32.123  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:15:32.123  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:15:32.123  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 12700
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:16:49.187  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:16:49.188  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:16:49.188  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:16:49.188  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 10812
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:17:19.639  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:17:19.640  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:17:19.640  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:17:19.640  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 16588
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:17:44.013 15 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:17:44.014 15 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:17:44.014 15 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:17:44.014 15 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 22056
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:19:05.224  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:19:05.225  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:19:05.226  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:19:05.226  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 22472
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:20:01.386  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:20:01.387  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:20:01.387  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:20:01.387  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 21824
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:20:56.886  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:20:56.887  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:20:56.887  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:20:56.887  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 15452
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:24:00.589  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:24:00.592  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:24:00.592  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:24:00.592  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 1264
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:26:16.915  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:26:16.916  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:26:16.916  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:26:16.916  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 17840
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:28:25.941  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:28:25.942  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:28:25.942  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:28:25.943  6 N 1 Client Copyright © Microsoft 2018
+13:29:04.364  8 N T 任务 PerfCounter.DoWork 耗时过长 15,722ms，建议使用异步任务Async=true
+13:29:14.336  8 N T 任务 PerfCounter.DoWork 耗时过长 1,373ms，建议使用异步任务Async=true
+13:29:23.685  8 N T 任务 PerfCounter.DoWork 耗时过长 9,348ms，建议使用异步任务Async=true
+13:29:42.339  8 N T 任务 PerfCounter.DoWork 耗时过长 9,967ms，建议使用异步任务Async=true
+13:29:50.808  8 N T 任务 PerfCounter.DoWork 耗时过长 5,225ms，建议使用异步任务Async=true
+13:30:02.611  8 N T 任务 PerfCounter.DoWork 耗时过长 3,357ms，建议使用异步任务Async=true
+13:30:07.901  8 N T 任务 PerfCounter.DoWork 耗时过长 3,666ms，建议使用异步任务Async=true
+13:30:09.372  8 N T 任务 PerfCounter.DoWork 耗时过长 1,468ms，建议使用异步任务Async=true
+13:30:19.788  8 N T 任务 PerfCounter.DoWork 耗时过长 523ms，建议使用异步任务Async=true
+13:30:20.959  8 N T 任务 PerfCounter.DoWork 耗时过长 520ms，建议使用异步任务Async=true
+13:30:41.797  8 N T 任务 PerfCounter.DoWork 耗时过长 2,358ms，建议使用异步任务Async=true
+13:30:42.871  8 N T 任务 PerfCounter.DoWork 耗时过长 1,071ms，建议使用异步任务Async=true
+13:30:47.196  8 N T 任务 PerfCounter.DoWork 耗时过长 894ms，建议使用异步任务Async=true
+
+#Software: Client
+#ProcessID: 14700
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:30:59.999  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:31:00.000  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:31:00.000  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:31:00.000  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 21560
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:35:18.947  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:35:18.948  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:35:18.949  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:35:18.949  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 19740
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:37:17.190  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:37:17.191  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:37:17.398  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:37:17.398  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 21432
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:38:51.389  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:38:51.390  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:38:51.390  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:38:51.390  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 4388
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:40:18.590  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:40:18.591  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:40:18.592  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:40:18.592  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 19844
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:42:21.551  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:42:21.553  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:42:21.553  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:42:21.553  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 18672
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+13:59:18.263  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+13:59:18.264  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+13:59:18.264  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+13:59:18.265  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 18996
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:01:30.538  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:01:30.579  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:01:30.579  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:01:30.579  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 14676
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:06:57.793  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:06:57.794  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:06:57.794  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:06:57.794  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 20652
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:12:41.093  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:12:41.094  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:12:41.094  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:12:41.095  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 17756
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:13:52.298  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:13:52.299  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:13:52.300  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:13:52.300  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 13328
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:14:14.096  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:14:14.097  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:14:14.097  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:14:14.097  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 8424
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:16:50.489  7 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:16:50.490  7 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:16:50.490  7 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:16:50.490  7 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 21296
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:17:42.166  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:17:42.175  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:17:42.176  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:17:42.176  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 18936
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:19:09.066  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:19:09.067  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:19:09.067  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:19:09.067  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 11620
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:19:54.186  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:19:54.186  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:19:54.186  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:19:54.187  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 14796
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:20:44.095  7 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:20:44.096  7 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:20:44.096  7 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:20:44.096  7 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 11404
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:21:26.685  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:21:26.686  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:21:26.686  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:21:26.686  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 22180
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:21:37.773  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:21:37.774  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:21:37.774  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:21:37.774  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 10880
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:23:10.588  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:23:10.589  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:23:10.589  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:23:10.589  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 5652
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:29:56.360  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:29:56.361  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:29:56.361  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:29:56.361  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 11900
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:31:38.321  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:31:38.322  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:31:38.322  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:31:38.322  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 22428
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:33:16.177  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:33:16.178  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:33:16.178  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:33:16.178  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 21440
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:35:17.073  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:35:17.075  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:35:17.075  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:35:17.075  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 9672
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:36:40.230  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:36:40.231  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:36:40.231  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:36:40.231  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 17188
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:38:52.782  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:38:52.783  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:38:52.783  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:38:52.783  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 24148
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:39:50.704  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:39:50.705  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:39:50.706  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:39:50.706  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 23440
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:40:41.426  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:40:41.427  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:40:41.427  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:40:41.427  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 10456
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:40:50.743  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:40:50.744  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:40:50.745  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:40:50.745  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 15936
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:41:21.760  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:41:21.761  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:41:21.761  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:41:21.761  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 22316
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:42:27.499  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:42:27.500  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:42:27.500  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:42:27.500  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 11360
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:48:23.775  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:48:23.776  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:48:23.776  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:48:23.776  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 22704
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:48:45.576  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:48:45.577  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:48:45.578  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:48:45.578  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 26620
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:49:12.510  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:49:12.511  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:49:12.511  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:49:12.511  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 19148
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:49:36.920  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:49:36.921  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:49:36.921  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:49:36.921  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 8780
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:50:10.469  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:50:10.470  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:50:10.470  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:50:10.470  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 18256
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:51:13.315  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:51:13.316  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:51:13.316  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:51:13.316  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 10896
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+14:51:39.540  7 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+14:51:39.541  7 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+14:51:39.541  7 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+14:51:39.541  7 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 27012
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+15:08:33.124  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+15:08:33.125  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+15:08:33.125  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+15:08:33.125  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 9436
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+15:09:39.378  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+15:09:39.378  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+15:09:39.378  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+15:09:39.379  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 31148
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+15:34:11.207  7 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+15:34:11.208  7 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+15:34:11.208  7 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+15:34:11.209  7 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 26628
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+15:36:37.647 11 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+15:36:37.648 11 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+15:36:37.648 11 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+15:36:37.648 11 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 19048
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+15:47:58.293 15 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+15:47:58.294 15 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+15:47:58.294 15 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+15:47:58.294 15 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 7608
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+15:56:45.431 14 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+15:56:45.432 14 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+15:56:45.432 14 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+15:56:45.432 14 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 31756
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+15:59:54.707 20 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+15:59:54.708 20 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+15:59:54.708 20 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+15:59:54.708 20 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 15956
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:00:32.406 20 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:00:32.406 20 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:00:32.407 20 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:00:32.407 20 N 1 Client Copyright © Microsoft 2018
+16:00:41.144  7 N T 任务 PerfCounter.DoWork 耗时过长 568ms，建议使用异步任务Async=true
+16:01:10.115  7 N T 任务 PerfCounter.DoWork 耗时过长 19,974ms，建议使用异步任务Async=true
+16:01:40.381  7 N T 任务 PerfCounter.DoWork 耗时过长 737ms，建议使用异步任务Async=true
+16:01:41.238  7 N T 任务 PerfCounter.DoWork 耗时过长 838ms，建议使用异步任务Async=true
+16:01:54.868  7 N T 任务 PerfCounter.DoWork 耗时过长 546ms，建议使用异步任务Async=true
+
+#Software: Client
+#ProcessID: 30300
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:02:28.499  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:02:28.500  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:02:28.500  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:02:28.500  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 13184
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:06:26.998 33 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:06:26.998 33 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:06:26.999 33 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:06:26.999 33 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 15784
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:08:01.367  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:08:01.368  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:08:01.368  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:08:01.368  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 18824
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:08:25.506  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:08:25.507  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:08:25.507  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:08:25.507  4 N 1 Client Copyright © Microsoft 2018
+16:08:42.197  6 N T 任务 PerfCounter.DoWork 耗时过长 10,580ms，建议使用异步任务Async=true
+
+#Software: Client
+#ProcessID: 3736
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:09:23.660  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:09:23.661  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:09:23.661  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:09:23.661  4 N 1 Client Copyright © Microsoft 2018
+16:10:10.196  7 N T 任务 PerfCounter.DoWork 耗时过长 14,726ms，建议使用异步任务Async=true
+16:10:11.444  7 N T 任务 PerfCounter.DoWork 耗时过长 1,212ms，建议使用异步任务Async=true
+
+#Software: Client
+#ProcessID: 24092
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:10:59.322 26 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:10:59.323 26 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:10:59.323 26 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:10:59.323 26 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 26324
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:11:38.139  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:11:38.140  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:11:38.146  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:11:38.146  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 28168
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:11:49.218  8 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:11:49.222  8 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:11:49.222  8 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:11:49.222  8 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 31864
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:11:56.394  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:11:56.395  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:11:56.395  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:11:56.586  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 19416
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:12:11.951  7 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:12:11.952  7 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:12:11.952  7 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:12:11.952  7 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 13696
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:12:21.090  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:12:21.091  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:12:21.091  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:12:21.091  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 29200
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:12:36.701  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:12:36.702  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:12:36.703  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:12:36.807  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 2052
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:13:58.534  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:13:58.535  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:13:58.535  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:13:58.535  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 9912
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:14:08.302  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:14:08.303  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:14:08.305  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:14:08.305  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 21844
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:14:10.998  7 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:14:10.999  7 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:14:10.999  7 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:14:11.000  7 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 24368
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:14:23.474  7 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:14:23.475  7 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:14:23.475  7 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:14:23.475  7 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 23672
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:14:26.679  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:14:26.680  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:14:26.680  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:14:26.680  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 20728
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:15:10.565  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:15:10.566  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:15:10.566  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:15:10.566  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 31812
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:15:15.673  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:15:15.674  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:15:15.674  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:15:15.674  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 14340
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:16:19.121  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:16:19.122  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:16:19.122  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:16:19.122  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 22508
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:16:23.665  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:16:23.666  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:16:23.666  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:16:23.666  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 17240
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:18:24.358  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:18:24.358  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:18:24.359  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:18:24.359  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 17484
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:18:31.082  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:18:31.083  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:18:31.083  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:18:31.084  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 24736
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:18:36.314  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:18:36.316  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:18:36.316  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:18:36.316  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 22120
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:20:25.745  3 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:20:25.746  3 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:20:25.746  3 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:20:25.746  3 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 14160
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:20:46.743  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:20:46.744  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:20:46.744  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:20:46.744  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 26476
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:21:17.969 13 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:21:17.969 13 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:21:17.969 13 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:21:17.969 13 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 7424
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:21:47.607  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:21:47.608  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:21:47.608  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:21:47.608  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 7432
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:25:10.967  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:25:10.968  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:25:10.968  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:25:10.968  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 13868
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:25:16.562  9 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:25:16.563  9 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:25:16.564  9 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:25:16.564  9 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 7484
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:25:23.534  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:25:23.535  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:25:23.535  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:25:23.535  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 29820
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:26:33.099  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:26:33.100  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:26:33.100  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:26:33.100  5 N 1 Client Copyright © Microsoft 2018
+16:27:30.820  7 N T 任务 PerfCounter.DoWork 耗时过长 949ms，建议使用异步任务Async=true
+16:28:24.255  7 N T 任务 PerfCounter.DoWork 耗时过长 508ms，建议使用异步任务Async=true
+16:28:24.764  7 N T 任务 PerfCounter.DoWork 耗时过长 507ms，建议使用异步任务Async=true
+16:28:25.400  7 N T 任务 PerfCounter.DoWork 耗时过长 632ms，建议使用异步任务Async=true
+16:28:34.700  7 N T 任务 PerfCounter.DoWork 耗时过长 9,299ms，建议使用异步任务Async=true
+16:28:35.608  7 N T 任务 PerfCounter.DoWork 耗时过长 907ms，建议使用异步任务Async=true
+16:29:30.580  7 N T 任务 PerfCounter.DoWork 耗时过长 2,043ms，建议使用异步任务Async=true
+16:31:26.887  7 N T 任务 PerfCounter.DoWork 耗时过长 1,013ms，建议使用异步任务Async=true
+16:31:27.886  7 N T 任务 PerfCounter.DoWork 耗时过长 998ms，建议使用异步任务Async=true
+16:31:32.558  7 N T 任务 PerfCounter.DoWork 耗时过长 4,671ms，建议使用异步任务Async=true
+16:32:18.278  7 N T 任务 PerfCounter.DoWork 耗时过长 1,005ms，建议使用异步任务Async=true
+16:33:34.276  7 N T 任务 PerfCounter.DoWork 耗时过长 791ms，建议使用异步任务Async=true
+16:33:37.149  7 N T 任务 PerfCounter.DoWork 耗时过长 781ms，建议使用异步任务Async=true
+16:33:43.267  7 N T 任务 PerfCounter.DoWork 耗时过长 2,102ms，建议使用异步任务Async=true
+16:33:47.443  7 N T 任务 PerfCounter.DoWork 耗时过长 4,174ms，建议使用异步任务Async=true
+16:34:39.197  7 N T 任务 PerfCounter.DoWork 耗时过长 529ms，建议使用异步任务Async=true
+16:34:40.371  7 N T 任务 PerfCounter.DoWork 耗时过长 932ms，建议使用异步任务Async=true
+16:34:44.112  7 N T 任务 PerfCounter.DoWork 耗时过长 926ms，建议使用异步任务Async=true
+16:34:44.845  7 N T 任务 PerfCounter.DoWork 耗时过长 731ms，建议使用异步任务Async=true
+16:34:50.284  7 N T 任务 PerfCounter.DoWork 耗时过长 5,437ms，建议使用异步任务Async=true
+16:35:53.629  7 N T 任务 PerfCounter.DoWork 耗时过长 6,363ms，建议使用异步任务Async=true
+16:35:54.237  7 N T 任务 PerfCounter.DoWork 耗时过长 607ms，建议使用异步任务Async=true
+16:35:56.297  7 N T 任务 PerfCounter.DoWork 耗时过长 864ms，建议使用异步任务Async=true
+16:37:10.555  7 N T 任务 PerfCounter.DoWork 耗时过长 1,843ms，建议使用异步任务Async=true
+16:37:12.637  7 N T 任务 PerfCounter.DoWork 耗时过长 720ms，建议使用异步任务Async=true
+16:37:49.554  7 N T 任务 PerfCounter.DoWork 耗时过长 523ms，建议使用异步任务Async=true
+16:38:25.910  7 N T 任务 PerfCounter.DoWork 耗时过长 2,199ms，建议使用异步任务Async=true
+16:38:35.322  7 N T 任务 PerfCounter.DoWork 耗时过长 8,125ms，建议使用异步任务Async=true
+16:38:35.855  7 N T 任务 PerfCounter.DoWork 耗时过长 532ms，建议使用异步任务Async=true
+16:38:39.588  7 N T 任务 PerfCounter.DoWork 耗时过长 554ms，建议使用异步任务Async=true
+16:39:37.370  7 N T 任务 PerfCounter.DoWork 耗时过长 639ms，建议使用异步任务Async=true
+16:39:44.330  7 N T 任务 PerfCounter.DoWork 耗时过长 661ms，建议使用异步任务Async=true
+16:39:49.520  7 N T 任务 PerfCounter.DoWork 耗时过长 3,155ms，建议使用异步任务Async=true
+16:39:52.811  7 N T 任务 PerfCounter.DoWork 耗时过长 3,291ms，建议使用异步任务Async=true
+16:40:17.871  7 N T 任务 PerfCounter.DoWork 耗时过长 520ms，建议使用异步任务Async=true
+16:40:26.941  7 N T 任务 PerfCounter.DoWork 耗时过长 902ms，建议使用异步任务Async=true
+16:40:28.473  7 N T 任务 PerfCounter.DoWork 耗时过长 1,531ms，建议使用异步任务Async=true
+16:40:34.143  7 N T 任务 PerfCounter.DoWork 耗时过长 633ms，建议使用异步任务Async=true
+
+#Software: Client
+#ProcessID: 15660
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:43:30.034  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:43:30.035  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:43:30.036  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:43:30.036  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 14772
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:46:40.920  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:46:40.921  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:46:40.921  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:46:40.921  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 14192
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:51:48.258  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:51:48.258  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:51:48.260  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:51:48.260  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 24640
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:52:07.908  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:52:07.909  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:52:07.909  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:52:07.909  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 27864
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:55:03.460 10 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:55:03.461 10 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:55:03.461 10 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:55:03.462 10 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 25512
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:55:07.532  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:55:07.533  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:55:07.533  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:55:07.533  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 17692
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:56:00.258  4 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:56:00.258  4 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:56:00.259  4 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:56:00.259  4 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 15888
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:57:28.796  7 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:57:28.797  7 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:57:28.797  7 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:57:28.797  7 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 5564
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+16:57:33.521  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+16:57:33.522  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+16:57:33.522  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+16:57:33.522  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 14952
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+17:01:36.366  7 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+17:01:36.366  7 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+17:01:36.367  7 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+17:01:36.368  7 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 24592
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+17:02:58.946  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+17:02:58.947  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+17:02:58.947  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+17:02:58.947  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 15940
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+17:05:43.899  7 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+17:05:43.900  7 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+17:05:43.900  7 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+17:05:43.900  7 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 31548
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+17:08:34.544  6 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+17:08:34.544  6 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+17:08:34.546  6 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+17:08:34.546  6 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 12428
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+17:20:06.399  5 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+17:20:06.400  5 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+17:20:06.400  5 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+17:20:06.400  5 N 1 Client Copyright © Microsoft 2018
+
+#Software: Client
+#ProcessID: 29668
+#AppDomain: Client.exe
+#BaseDirectory: C:\Users\Ali\source\repos\Demo\Client\bin\Debug\
+#CommandLine: "C:\Users\Ali\source\repos\Demo\Client\bin\Debug\Client.exe" 
+#ApplicationType: Console
+#CLR: 4.0.30319.42000, .NET Framework 4.6.1
+#OS: Microsoft Windows NT 6.1.7601 Service Pack 1, ALI-PC/Ali
+#CPU: 4
+#Date: 2018-11-06
+#字段: 时间 线程ID 线程池Y网页W普通N 线程名 消息内容
+#Fields: Time ThreadID IsPoolThread ThreadName Message
+17:26:03.212  7 N 1 NewLife.Core v7.4.2018.1103 Build 2018-11-03 22:57:02 .NET Framework 4.5
+17:26:03.213  7 N 1 组件核心库 ©2002-2018 新生命开发团队 https://github.com/NewLifeX/X
+17:26:03.214  7 N 1 Client v1.0.0.0 Build 2000-01-01 .NET Framework 4.6.1
+17:26:03.214  7 N 1 Client Copyright © Microsoft 2018
